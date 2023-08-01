@@ -190,6 +190,7 @@
     {
       "id": 1,
       "nome": "Maria Helena",
+      "data": "18/02/1952",
       "idade": 71,
       "altura": 1.55,
       "peso": 69
@@ -197,6 +198,7 @@
     {
       "id": 2,
       "nome": "Artur",
+      "data": "29/03/1941",
       "idade": 82,
       "altura": 1.65,
       "peso": 82
