@@ -1,5 +1,5 @@
-//const fs = require("fs");
-//const os = require("os");
+const fs = require("fs");
+const os = require("os");
 
 // JSON Server module
 const jsonServer = require("json-server");
