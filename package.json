@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ifkas/restful-api-vercel.git"
+    "url": "git+https://github.com/Marcelo701500/restful-api-vercel.git"
   },
   "keywords": [
     "restful",
@@ -21,9 +21,9 @@
   "author": "Ivo Culic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ifkas/restful-api-vercel/issues"
+    "url": "https://github.com/Marcelo701500/restful-api-vercel/issues"
   },
-  "homepage": "https://github.com/ifkas/restful-api-vercel#readme",
+  "homepage": "https://github.com/Marcelo701500/restful-api-vercel#readme",
   "dependencies": {},
   "devDependencies": {
     "json-server": "^0.17.1"
