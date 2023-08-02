@@ -369,7 +369,7 @@
       "dia": 82,
       "pulso": 66,
       "oxigenacao": 99,
-      "glicemia": 0,
+      "glicemia": 110,
       "data": "2023-08-02T08:10:42.945Z",
       "id": 26
     },
@@ -386,7 +386,7 @@
       "dia": 83,
       "pulso": 64,
       "oxigenacao": 99,
-      "glicemia": 0,
+      "glicemia": 110,
       "data": "2023-08-02T08:12:00.825Z",
       "id": 27
     }
