@@ -576,6 +576,23 @@
       "glicemia": 0,
       "data": "2023-08-02T21:07:16.886Z",
       "id": 38
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 106,
+      "dia": 57,
+      "pulso": 67,
+      "oxigenacao": 0,
+      "glicemia": 0,
+      "data": "2023-08-02T21:45:16.679Z",
+      "id": 39
     }
   ],
   "pacientes": [
