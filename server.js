@@ -1,5 +1,5 @@
 // JSON Server module
-/*
+
 const jsonServer = require('json-server');
 
 const server = jsonServer.create();
@@ -12,9 +12,10 @@ server.use(router);
 server.listen(port, '10.0.0.4');
 
 // Export the Server API
-module.exports =server;
-*/
+module.exports = server;
 
+
+/*
 var fs = require('fs'),
   https = require('https'),
   jsonServer = require('json-server'),
@@ -33,4 +34,4 @@ server.use(router);
 https.createServer(options, server).listen(3000, function() {
   console.log("json-server started on port " + 3000);
 });
-
+*/
