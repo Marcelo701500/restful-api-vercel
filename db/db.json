@@ -389,6 +389,40 @@
       "glicemia": 110,
       "data": "2023-08-02T08:12:00.825Z",
       "id": 27
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 69
+      },
+      "sis": 182,
+      "dia": 79,
+      "pulso": 59,
+      "oxigenacao": 99,
+      "glicemia": 0,
+      "data": "2023-08-02T09:43:38.213Z",
+      "id": 28
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 69
+      },
+      "sis": 181,
+      "dia": 81,
+      "pulso": 63,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-02T09:43:57.329Z",
+      "id": 29
     }
   ],
   "pacientes": [
