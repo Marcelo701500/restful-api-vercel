@@ -625,7 +625,7 @@
       "pulso": 69,
       "oxigenacao": 96,
       "glicemia": 0,
-      "data": "2023-08-04T10:30:33.649Z",
+      "data": "2023-08-03T10:30:33.649Z",
       "id": 41
     },
     {
@@ -642,8 +642,93 @@
       "oxigenacao": 98,
       "glicemia": 0,
       "dia": 80,
-      "data": "2023-08-04T03:21:12.863Z",
+      "data": "2023-08-03T03:21:12.863Z",
       "id": 42
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 135,
+      "dia": 69,
+      "pulso": 74,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-03T08:05:14.072Z",
+      "id": 43
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 130,
+      "dia": 63,
+      "pulso": 71,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-03T11:27:49.041Z",
+      "id": 44
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 147,
+      "dia": 69,
+      "pulso": 78,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-03T09:45:24.126Z",
+      "id": 45
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 141,
+      "dia": 69,
+      "pulso": 78,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-03T09:43:44.068Z",
+      "id": 46
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 127,
+      "dia": 76,
+      "pulso": 74,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-03T11:26:16.093Z",
+      "id": 47
     }
   ],
   "pacientes": [
