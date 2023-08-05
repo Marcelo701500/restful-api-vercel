@@ -1511,6 +1511,40 @@
       "glicemia": 0,
       "data": "2023-08-05T13:45:37.332Z",
       "id": 94
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 136,
+      "dia": 73,
+      "pulso": 63,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-05T14:18:18.931Z",
+      "id": 95
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 120,
+      "dia": 66,
+      "pulso": 67,
+      "oxigenacao": 95,
+      "glicemia": 0,
+      "data": "2023-08-05T17:15:38.529Z",
+      "id": 96
     }
   ],
   "pacientes": [
