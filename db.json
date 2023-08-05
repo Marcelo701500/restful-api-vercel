@@ -1613,6 +1613,23 @@
       "oxigenacao": 99,
       "data": "2023-08-05T21:29:49.312Z",
       "id": 100
+    },
+    {
+      "paciente": {
+        "id": 3,
+        "nome": "Eduardo",
+        "data": "09/02/1975",
+        "idade": 48,
+        "altura": 1.68,
+        "peso": 88
+      },
+      "glicemia": 0,
+      "sis": 142,
+      "dia": 84,
+      "pulso": 80,
+      "oxigenacao": 97,
+      "data": "2023-08-05T21:32:55.936Z",
+      "id": 101
     }
   ],
   "pacientes": [
