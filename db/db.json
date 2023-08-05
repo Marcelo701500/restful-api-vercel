@@ -1351,10 +1351,10 @@
         "altura": 1.65,
         "peso": 72
       },
-      "sis": 140,
+      "sis": 160,
       "dia": 70,
       "pulso": 70,
-      "oxigenacao": 98,
+      "oxigenacao": 94,
       "glicemia": 0,
       "data": "2023-08-05T10:36:28.810Z",
       "id": 85
@@ -1409,6 +1409,23 @@
       "glicemia": 0,
       "data": "2023-08-05T12:52:01.031Z",
       "id": 88
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 140,
+      "dia": 70,
+      "pulso": 70,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-05T00:57:29.266Z",
+      "id": 89
     }
   ],
   "pacientes": [
