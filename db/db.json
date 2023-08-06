@@ -1834,6 +1834,40 @@
       "oxigenacao": 99,
       "data": "2023-08-06T16:32:33.584Z",
       "id": 113
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 131,
+      "dia": 63,
+      "pulso": 75,
+      "oxigenacao": 95,
+      "glicemia": 0,
+      "data": "2023-08-06T23:15:08.592Z",
+      "id": 114
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 126,
+      "dia": 72,
+      "pulso": 69,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-06T23:15:35.794Z",
+      "id": 115
     }
   ],
   "pacientes": [
