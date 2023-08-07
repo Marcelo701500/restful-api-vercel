@@ -1886,24 +1886,7 @@
       "data": "2023-08-05T09:43:43.367Z",
       "id": 116
     },
-    {
-      "paciente": {
-        "id": 2,
-        "nome": "Artur",
-        "data": "29/03/1941",
-        "idade": 82,
-        "altura": 1.65,
-        "peso": 72
-      },
-      "sis": 152,
-      "dia": 74,
-      "pulso": 75,
-      "oxigenacao": 95,
-      "glicemia": 0,
-      "data": "2023-08-06T09:45:45.438Z",
-      "id": 117
-    },
-    {
+      {
       "paciente": {
         "id": 2,
         "nome": "Artur",
