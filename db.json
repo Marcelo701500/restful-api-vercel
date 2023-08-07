@@ -2140,6 +2140,142 @@
       "glicemia": 0,
       "data": "2023-08-07T13:09:26.939Z",
       "id": 132
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 122,
+      "dia": 74,
+      "pulso": 77,
+      "oxigenacao": 96,
+      "glicemia": 0,
+      "data": "2023-08-07T16:41:20.093Z",
+      "id": 133
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 125,
+      "dia": 70,
+      "pulso": 77,
+      "oxigenacao": 99,
+      "glicemia": 0,
+      "data": "2023-08-07T16:42:42.765Z",
+      "id": 134
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 132,
+      "dia": 66,
+      "pulso": 75,
+      "oxigenacao": 98,
+      "glicemia": 75,
+      "data": "2023-08-07T18:33:27.399Z",
+      "id": 135
+    },
+    {
+      "paciente": {
+        "id": 1,
+        "nome": "Maria Helena",
+        "data": "18/02/1952",
+        "idade": 71,
+        "altura": 1.55,
+        "peso": 65.5
+      },
+      "sis": 141,
+      "dia": 64,
+      "pulso": 75,
+      "oxigenacao": 98,
+      "glicemia": 0,
+      "data": "2023-08-07T18:35:52.763Z",
+      "id": 136
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 120,
+      "dia": 70,
+      "pulso": 64,
+      "oxigenacao": 96,
+      "glicemia": 0,
+      "data": "2023-08-07T16:53:19.138Z",
+      "id": 137
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 118,
+      "dia": 67,
+      "pulso": 60,
+      "oxigenacao": 95,
+      "glicemia": 0,
+      "data": "2023-08-07T16:54:41.409Z",
+      "id": 138
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 124,
+      "dia": 71,
+      "pulso": 64,
+      "oxigenacao": 95,
+      "glicemia": 0,
+      "data": "2023-08-07T18:29:02.596Z",
+      "id": 139
+    },
+    {
+      "paciente": {
+        "id": 2,
+        "nome": "Artur",
+        "data": "29/03/1941",
+        "idade": 82,
+        "altura": 1.65,
+        "peso": 72
+      },
+      "sis": 123,
+      "dia": 67,
+      "pulso": 63,
+      "oxigenacao": 95,
+      "glicemia": 0,
+      "data": "2023-08-07T18:31:26.343Z",
+      "id": 140
     }
   ],
   "pacientes": [
